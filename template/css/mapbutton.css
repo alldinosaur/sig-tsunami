@@ -1,0 +1,5639 @@
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/*----------------WITEL---------------*/
+.container .btnSbu {
+  position: absolute;
+  top: 80px;
+  left: 190px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSbu:hover {
+  background-color: black;
+}
+
+.container .btnSbs {
+  position: absolute;
+  top: 100px;
+  left: 185px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSbs:hover {
+  background-color: black;
+}
+
+.container .btnMadura {
+  position: absolute;
+  top: 60px;
+  left: 260px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMadura:hover {
+  background-color: black;
+}
+
+.container .btnMalang {
+  position: absolute;
+  top: 165px;
+  left: 190px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMalang:hover {
+  background-color: black;
+}
+
+.container .btnPasuruan {
+  position: absolute;
+  top: 140px;
+  left: 230px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPasuruan:hover {
+  background-color: black;
+}
+
+.container .btnSidoarjo {
+  position: absolute;
+  top: 120px;
+  left: 220px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSidoarjo:hover {
+  background-color: black;
+}
+
+.container .btnMadiun {
+  position: absolute;
+  top: 95px;
+  left: 90px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMadiun:hover {
+  background-color: black;
+}
+
+.container .btnKediri {
+  position: absolute;
+  top: 155px;
+  left: 120px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKediri:hover {
+  background-color: black;
+}
+
+.container .btnJember {
+  position: absolute;
+  top: 195px;
+  left: 310px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJember:hover {
+  background-color: black;
+}
+
+.container .btnDenpasar {
+  position: absolute;
+  top: 240px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDenpasar:hover {
+  background-color: black;
+}
+
+.container .btnSingaraja {
+  position: absolute;
+  top: 190px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSingaraja:hover {
+  background-color: black;
+}
+
+.container .btnWitelMaumere {
+  position: absolute;
+  top: 245px;
+  left: 1250px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%  ;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWitelMaumere:hover {
+  background-color: black;
+}
+
+.container .btnWitelKupang {
+  position: absolute;
+  top: 420px;
+  left: 1400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 12px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWitelKupang:hover {
+  background-color: black;
+}
+
+.container .btnNtb {
+  position: absolute;
+  top: 260px;
+  left: 750px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNtb:hover {
+  background-color: black;
+}
+
+/*--------------STO SBU---------------*/
+
+.container .btnBabad {
+  position: absolute;
+  top: 218px;
+  left: 320px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBabad:hover {
+  background-color: black;
+}
+
+.container .btnBambe {
+  position: absolute;
+  top: 330px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBambe:hover {
+  background-color: black;
+}
+
+.container .btnBrondong {
+  position: absolute;
+  top: 95px;
+  left: 325px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBrondong:hover {
+  background-color: black;
+}
+
+.container .btnBalongpanggang {
+  position: absolute;
+  top: 300px;
+  left: 415px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBalongpanggang:hover {
+  background-color: black;
+}
+
+.container .btnBawean {
+  position: absolute;
+  top: 80px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBawean:hover {
+  background-color: black;
+}
+
+.container .btnCerme {
+  position: absolute;
+  top: 280px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnCerme:hover {
+  background-color: black;
+}
+
+.container .btnDudukSampeyan {
+  position: absolute;
+  top: 230px;
+  left: 445px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDudukSampeyan:hover {
+  background-color: black;
+
+}
+
+.container .btnGresik {
+  position: absolute;
+  top: 240px;
+  left: 515px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGresik:hover {
+  background-color: black;
+
+}
+
+.container .btnKedamean {
+  position: absolute;
+  top: 315px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKedamean:hover {
+  background-color: black;
+}
+
+.container .btnKenjeran{
+  position: absolute;
+  top: 310px;
+  left: 600px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKenjeran:hover {
+  background-color: black;
+}
+
+.container .btnKalianak {
+  position: absolute;
+  top: 285px;
+  left: 530px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKalianak:hover {
+  background-color: black;
+}
+
+.container .btnKandangan {
+  position: absolute;
+  top: 305px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKandangan:hover {
+  background-color: black;
+}
+
+.container .btnKapasan {
+  position: absolute;
+  top: 300px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKapasan:hover {
+  background-color: black;
+}
+
+.container .btnKarangpilang {
+  position: absolute;
+  top: 370px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKarangpilang:hover {
+  background-color: black;
+}
+
+.container .btnKebalen {
+  position: absolute;
+  top: 280px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKebalen:hover {
+  background-color: black;
+}
+
+.container .btnLakarsantri {
+  position: absolute;
+  top: 340px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLakarsantri:hover {
+  background-color: black;
+}
+
+
+.container .btnLamongan {
+  position: absolute;
+  top: 218px;
+  left: 390px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLamongan:hover {
+  background-color: black;
+}
+
+.container .btnGresik2 {
+  position: absolute;
+  top: 215px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGresik2:hover {
+  background-color: black;
+
+}
+
+.container .btnSukodadi {
+  position: absolute;
+  top: 200px;
+  left: 355px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukodadi:hover {
+  background-color: black;
+}
+
+.container .btnSedayu {
+  position: absolute;
+  top: 160px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSedayu:hover {
+  background-color: black;
+}
+
+.container .btnTandes {
+  position: absolute;
+  top: 320px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTandes:hover {
+  background-color: black;
+}
+
+/*--------------STO SBS---------------*/
+.container .btnDarmo {
+  position: absolute;
+  top: 150px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDarmo:hover {
+  background-color: black;
+}
+
+.container .btnGubeng {
+  position: absolute;
+  top: 140px;
+  left: 525px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGubeng:hover {
+  background-color: black;
+}
+
+.container .btnInjoko {
+  position: absolute;
+  top: 180px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnInjoko:hover {
+  background-color: black;
+}
+
+.container .btnJagir {
+  position: absolute;
+  top: 160px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJagir:hover {
+  background-color: black;
+}
+
+.container .btnMergoyoso {
+  position: absolute;
+  top: 120px;
+  left: 505px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMergoyoso:hover {
+  background-color: black;
+}
+
+.container .btnManyar {
+  position: absolute;
+  top: 125px;
+  left: 545px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnManyar:hover {
+  background-color: black;
+}
+
+.container .btnRungkut {
+  position: absolute;
+  top: 170px;
+  left: 530px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnRungkut:hover {
+  background-color: black;
+}
+
+.container .btnWaru2 {
+  position: absolute;
+  top: 215px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWaru2:hover {
+  background-color: black;
+}
+
+.container .btnWaru {
+  position: absolute;
+  top: 200px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWaru:hover {
+  background-color: black;
+}
+
+/*--------------STO SIDOARJO---------------*/
+.container .btnBeji{
+  position: absolute;
+  top: 200px;
+  left: 585px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBeji:hover {
+  background-color: black;
+}
+
+.container .btnDlanggu {
+  position: absolute;
+  top: 180px;
+  left: 405px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDlanggu:hover {
+  background-color: black;
+}
+
+.container .btnGedangan {
+  position: absolute;
+  top: 75px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGedangan:hover {
+  background-color: black;
+}
+
+.container .btnGempol {
+  position: absolute;
+  top: 170px;
+  left: 555px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGempol:hover {
+  background-color: black;
+}
+
+.container .btnJombang {
+  position: absolute;
+  top: 190px;
+  left: 260px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJombang:hover {
+  background-color: black;
+}
+
+.container .btnKrian {
+  position: absolute;
+  top: 75px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKrian:hover {
+  background-color: black;
+}
+
+.container .btnMlirip {
+  position: absolute;
+  top: 90px;
+  left: 387px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMlirip:hover {
+  background-color: black;
+}
+
+.container .btnMojosari {
+  position: absolute;
+  top: 150px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMojosari:hover {
+  background-color: black;
+}
+
+.container .btnMojoagung {
+  position: absolute;
+  top: 180px;
+  left: 345px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMojoagung:hover {
+  background-color: black;
+}
+
+.container .btnMojokerto {
+  position: absolute;
+  top: 115px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMojokerto:hover {
+  background-color: black;
+}
+
+.container .btnNgoroIndustri {
+  position: absolute;
+  top: 160px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgoroIndustri:hover {
+  background-color: black;
+}
+
+.container .btnNgoroJombang {
+  position: absolute;
+  top: 270px;
+  left: 260px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgoroJombang:hover {
+  background-color: black;
+}
+
+.container .btnPacet{
+  position: absolute;
+  top: 220px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPacet:hover {
+  background-color: black;
+}
+
+.container .btnPandaan{
+  position: absolute;
+  top: 240px;
+  left: 570px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPandaan:hover {
+  background-color: black;
+}
+
+.container .btnPrigen{
+  position: absolute;
+  top: 263px;
+  left: 505px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPrigen:hover {
+  background-color: black;
+}
+
+.container .btnPloso{
+  position: absolute;
+  top: 95px;
+  left: 250px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPloso:hover {
+  background-color: black;
+}
+
+.container .btnPurwosari{
+  position: absolute;
+  top: 310px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPurwosari:hover {
+  background-color: black;
+}
+
+.container .btnStoSidoarjo{
+  position: absolute;
+  top: 105px;
+  left: 570px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnStoSidoarjo:hover {
+  background-color: black;
+}
+
+.container .btnSukodono{
+  position: absolute;
+  top: 95px;
+  left: 530px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukodono:hover {
+  background-color: black;
+}
+
+.container .btnSepanjang{
+  position: absolute;
+  top: 30px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSepanjang:hover {
+  background-color: black;
+}
+
+.container .btnTulangan{
+  position: absolute;
+  top: 135px;
+  left: 585px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTulangan:hover {
+  background-color: black;
+}
+
+/*--------------STO MADIUN---------------*/
+.container .btnBancar {
+  position: absolute;
+  top: 30px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBancar:hover {
+  background-color: black;
+}
+
+.container .btnBojonegoro {
+  position: absolute;
+  top: 165px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBojonegoro:hover {
+  background-color: black;
+}
+
+.container .btnCaruban {
+  position: absolute;
+  top: 310px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnCaruban:hover {
+  background-color: black;
+}
+
+.container .btnGoranggareng {
+  position: absolute;
+  top: 360px;
+  left: 390px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGoranggareng:hover {
+  background-color: black;
+}
+
+.container .btnJenangan {
+  position: absolute;
+  top: 415px;
+  left: 425px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJenangan:hover {
+  background-color: black;
+}
+
+.container .btnJogorogo {
+  position: absolute;
+  top: 300px;
+  left: 340px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJogorogo:hover {
+  background-color: black;
+}
+
+.container .btnJatirogo {
+  position: absolute;
+  top: 50px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJatirogo:hover {
+  background-color: black;
+}
+
+.container .btnKalitidu {
+  position: absolute;
+  top: 155px;
+  left: 505px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKalitidu:hover {
+  background-color: black;
+}
+
+.container .btnKarangjati {
+  position: absolute;
+  top: 290px;
+  left: 435px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKarangjati:hover {
+  background-color: black;
+}
+
+.container .btnKerek {
+  position: absolute;
+  top: 70px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKerek:hover {
+  background-color: black;
+}
+
+.container .btnLorog {
+  position: absolute;
+  top: 547px;
+  left: 340px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLorog:hover {
+  background-color: black;
+}
+
+.container .btnMagetan {
+  position: absolute;
+  top: 350px;
+  left: 365px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMagetan:hover {
+  background-color: black;
+}
+
+.container .btnStoMadiun {
+  position: absolute;
+  top: 340px;
+  left: 415px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnStoMadiun:hover {
+  background-color: black;
+}
+
+.container .btnMerakurak {
+  position: absolute;
+  top: 55px;
+  left: 590px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMerakurak:hover {
+  background-color: black;
+}
+
+.container .btnMaospati {
+  position: absolute;
+  top: 320px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMaospati:hover {
+  background-color: black;
+}
+
+.container .btnNgawi {
+  position: absolute;
+  top: 260px;
+  left: 390px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgawi:hover {
+  background-color: black;
+}
+
+/*.container .btnPulauPadang {
+  position: absolute;
+  top: 20px;
+  left: 595px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPulauPadang:hover {
+  background-color: black;
+}*/
+
+.container .btnPulung {
+  position: absolute;
+  top: 430px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPulung:hover {
+  background-color: black;
+}
+
+.container .btnPunung {
+  position: absolute;
+  top: 520px;
+  left: 250px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPunung:hover {
+  background-color: black;
+}
+
+.container .btnPacitan {
+  position: absolute;
+  top: 543px;
+  left: 285px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPacitan:hover {
+  background-color: black;
+}
+
+.container .btnPonorogo {
+  position: absolute;
+  top: 430px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPonorogo:hover {
+  background-color: black;
+}
+
+.container .btnRengel {
+  position: absolute;
+  top: 130px;
+  left: 595px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnRengel:hover {
+  background-color: black;
+}
+
+.container .btnSarangan {
+  position: absolute;
+  top: 350px;
+  left: 310px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSarangan:hover {
+  background-color: black;
+}
+
+.container .btnSambit {
+  position: absolute;
+  top: 465px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSambit:hover {
+  background-color: black;
+}
+
+.container .btnSlahung {
+  position: absolute;
+  top: 470px;
+  left: 385px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSlahung:hover {
+  background-color: black;
+}
+
+.container .btnSumberrejo {
+  position: absolute;
+  top: 175px;
+  left: 585px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSumberrejo:hover {
+  background-color: black;
+}
+
+.container .btnSumoroto {
+  position: absolute;
+  top: 425px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSumoroto:hover {
+  background-color: black;
+}
+
+.container .btnTuban {
+  position: absolute;
+  top: 70px;
+  left: 610px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTuban:hover {
+  background-color: black;
+}
+
+.container .btnUteran {
+  position: absolute;
+  top: 360px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnUteran:hover {
+  background-color: black;
+}
+
+.container .btnWalikukun {
+  position: absolute;
+  top: 270px;
+  left: 327px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWalikukun:hover {
+  background-color: black;
+}
+
+/*--------------STO PASURUAN---------------*/
+.container .btnBangil {
+  position: absolute;
+  top: 80px;
+  left: 270px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBangil:hover {
+  background-color: black;
+}
+
+.container .btnGondangWetan {
+  position: absolute;
+  top: 130px;
+  left: 325px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGondangWetan:hover {
+  background-color: black;
+}
+
+.container .btnGending {
+  position: absolute;
+  top: 190px;
+  left: 535px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGending:hover {
+  background-color: black;
+}
+
+.container .btnGrati {
+  position: absolute;
+  top: 135px;
+  left: 370px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGrati:hover {
+  background-color: black;
+}
+
+.container .btnJatiroto {
+  position: absolute;
+  top: 360px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJatiroto:hover {
+  background-color: black;
+}
+
+.container .btnKlakah {
+  position: absolute;
+  top: 295px;
+  left: 500px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKlakah:hover {
+  background-color: black;
+}
+
+.container .btnKraksaan {
+  position: absolute;
+  top: 165px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKraksaan:hover {
+  background-color: black;
+}
+
+.container .btnLeces {
+  position: absolute;
+  top: 210px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLeces:hover {
+  background-color: black;
+}
+
+.container .btnLumajang {
+  position: absolute;
+  top: 360px;
+  left: 490px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLumajang:hover {
+  background-color: black;
+}
+
+.container .btnNongkoJajar {
+  position: absolute;
+  top: 240px;
+  left: 300px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNongkoJajar:hover {
+  background-color: black;
+}
+.container .btnProbolinggo {
+  position: absolute;
+  top: 165px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnProbolinggo:hover {
+  background-color: black;
+}
+
+.container .btnPasirian {
+  position: absolute;
+  top: 395px;
+  left: 420px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPasirian:hover {
+  background-color: black;
+}
+
+.container .btnStoPasuruan {
+  position: absolute;
+  top: 100px;
+  left: 330px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnStoPasuruan:hover {
+  background-color: black;
+}
+
+.container .btnPaiton {
+  position: absolute;
+  top: 140px;
+  left: 645px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPaiton:hover {
+  background-color: black;
+}
+
+.container .btnSenduro {
+  position: absolute;
+  top: 340px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSenduro:hover {
+  background-color: black;
+}
+
+.container .btnSukapura {
+  position: absolute;
+  top: 260px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukapura:hover {
+  background-color: black;
+}
+
+.container .btnTongas {
+  position: absolute;
+  top: 155px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTongas:hover {
+  background-color: black;
+}
+
+.container .btnTempeh {
+  position: absolute;
+  top: 400px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTempeh:hover {
+  background-color: black;
+}
+
+.container .btnYosowilangun {
+  position: absolute;
+  top: 400px;
+  left: 530px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnYosowilangun:hover {
+  background-color: black;
+}
+
+/*--------------STO MALANG---------------*/
+.container .btnAmpelGading {
+  position: absolute;
+  top: 350px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAmpelGading:hover {
+  background-color: black;
+}
+
+.container .btnBelimbing {
+  position: absolute;
+  top: 166px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBelimbing:hover {
+  background-color: black;
+}
+
+.container .btnBantur {
+  position: absolute;
+  top: 430px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBantur:hover {
+  background-color: black;
+}
+
+.container .btnBuring {
+  position: absolute;
+  top: 230px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBuring:hover {
+  background-color: black;
+}
+
+.container .btnBatu {
+  position: absolute;
+  top: 120px;
+  left: 340px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBatu:hover {
+  background-color: black;
+}
+
+.container .btnDonomulyo {
+  position: absolute;
+  top: 440px;
+  left: 300px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDonomulyo:hover {
+  background-color: black;
+}
+
+.container .btnDampit {
+  position: absolute;
+  top: 360px;
+  left: 485px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDampit:hover {
+  background-color: black;
+}
+
+.container .btnGadang {
+  position: absolute;
+  top: 230px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGadang:hover {
+  background-color: black;
+}
+
+.container .btnGondanglegi {
+  position: absolute;
+  top: 330px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGondanglegi:hover {
+  background-color: black;
+}
+
+.container .btnGunungKawi {
+  position: absolute;
+  top: 260px;
+  left: 310px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGunungKawi:hover {
+  background-color: black;
+}
+
+.container .btnKepanjen {
+  position: absolute;
+  top: 300px;
+  left: 350px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKepanjen:hover {
+  background-color: black;
+}
+
+.container .btnKlojen {
+  position: absolute;
+  top: 175px;
+  left: 360px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKlojen:hover {
+  background-color: black;
+}
+
+.container .btnKarangploso {
+  position: absolute;
+  top: 125px;
+  left: 385px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKarangploso:hover {
+  background-color: black;
+}
+
+.container .btnLawang {
+  position: absolute;
+  top: 80px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLawang:hover {
+  background-color: black;
+}
+
+.container .btnStoMalang {
+  position: absolute;
+  top: 195px;
+  left: 390px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnStoMalang:hover {
+  background-color: black;
+}
+
+.container .btnNgantang {
+  position: absolute;
+  top: 120px;
+  left: 240px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgantang:hover {
+  background-color: black;
+}
+
+.container .btnPagak {
+  position: absolute;
+  top: 380px;
+  left: 325px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPagak:hover {
+  background-color: black;
+}
+
+.container .btnPakis {
+  position: absolute;
+  top: 165px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPakis:hover {
+  background-color: black;
+}
+
+.container .btnSumberManjing {
+  position: absolute;
+  top: 400px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSumberManjing:hover {
+  background-color: black;
+}
+
+.container .btnSumberPucung {
+  position: absolute;
+  top: 320px;
+  left: 300px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .SumberPucung:hover {
+  background-color: black;
+}
+
+.container .btnSingosari {
+  position: absolute;
+  top: 125px;
+  left: 425px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSingosari:hover {
+  background-color: black;
+}
+
+.container .btnSawojajar {
+  position: absolute;
+  top: 200px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSawojajar:hover {
+  background-color: black;
+}
+
+.container .btnTumpang {
+  position: absolute;
+  top: 230px;
+  left: 500px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTumpang:hover {
+  background-color: black;
+}
+
+.container .btnTuren {
+  position: absolute;
+  top: 330px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTuren:hover {
+  background-color: black;
+}
+
+/*--------------STO NTB---------------*/
+.container .btnAlas {
+  position: absolute;
+  top: 150px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAlas:hover {
+  background-color: black;
+}
+
+.container .btnBima {
+  position: absolute;
+  top: 140px;
+  left: 980px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBima:hover {
+  background-color: black;
+}
+
+.container .btnDompu {
+  position: absolute;
+  top: 160px;
+  left: 890px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDompu:hover {
+  background-color: black;
+}
+
+.container .btnGerung {
+  position: absolute;
+  top: 190px;
+  left: 150px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGerung:hover {
+  background-color: black;
+}
+
+.container .btnMasbagik {
+  position: absolute;
+  top: 160px;
+  left: 270px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMasbagik:hover {
+  background-color: black;
+}
+
+.container .btnMaluk {
+  position: absolute;
+  top: 270px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMaluk:hover {
+  background-color: black;
+}
+
+.container .btnMataram {
+  position: absolute;
+  top: 150px;
+  left: 135px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.7;
+}
+
+.container .btnMataram:hover {
+  background-color: black;
+}
+
+.container .btnPraya {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPraya:hover {
+  background-color: black;
+}
+
+.container .btnSumbawa {
+  position: absolute;
+  top: 150px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSumbawa:hover {
+  background-color: black;
+}
+
+.container .btnSelong {
+  position: absolute;
+  top: 180px;
+  left: 310px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSelong:hover {
+  background-color: black;
+}
+
+.container .btnSenggigi {
+  position: absolute;
+  top: 120px;
+  left: 140px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSenggigi:hover {
+  background-color: black;
+}
+
+.container .btnSweta {
+  position: absolute;
+  top: 155px;
+  left: 180px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSweta:hover {
+  background-color: black;
+}
+
+.container .btnTente {
+  position: absolute;
+  top: 190px;
+  left: 960px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTente:hover {
+  background-color: black;
+}
+
+.container .btnTaliwang {
+  position: absolute;
+  top: 220px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTaliwang:hover {
+  background-color: black;
+}
+
+/*--------------STO NTT---------------*/
+.container .btnAtambua{
+  position: absolute;
+  top: 210px;
+  left: 750px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAtambua:hover {
+  background-color: black;
+}
+
+.container .btnBajawa {
+  position: absolute;
+  top: 150px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBajawa:hover {
+  background-color: black;
+}
+
+.container .btnEnde {
+  position: absolute;
+  top: 160px;
+  left: 540px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnEnde:hover {
+  background-color: black;
+}
+
+.container .btnKefamenanu {
+  position: absolute;
+  top: 270px;
+  left: 660px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKefamenanu:hover {
+  background-color: black;
+}
+
+.container .btnLarantuka {
+  position: absolute;
+  top: 70px;
+  left: 770px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLarantuka:hover {
+  background-color: black;
+}
+
+.container .btnMaumere {
+  position: absolute;
+  top: 125px;
+  left: 620px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMaumere:hover {
+  background-color: black;
+}
+
+.container .btnNikiNiki {
+  position: absolute;
+  top: 360px;
+  left: 670px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNikiNiki:hover {
+  background-color: black;
+}
+
+.container .btnOesapa {
+  position: absolute;
+  top: 400px;
+  left: 530px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnOesapa:hover {
+  background-color: black;
+}
+
+.container .btnRuteng {
+  position: absolute;
+  top: 110px;
+  left: 290px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnRuteng:hover {
+  background-color: black;
+}
+
+.container .btnSeba {
+  position: absolute;
+  top: 470px;
+  left: 160px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSeba:hover {
+  background-color: black;
+}
+
+.container .btnSoe {
+  position: absolute;
+  top: 355px;
+  left: 625px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSoe:hover {
+  background-color: black;
+}
+
+.container .btnTenau {
+  position: absolute;
+  top: 420px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.7;
+}
+
+.container .btnTenau:hover {
+  background-color: black;
+}
+
+.container .btnWaingapu {
+  position: absolute;
+  top: 310px;
+  left: 260px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWingapu:hover {
+  background-color: black;
+}
+
+.container .btnKupang {
+  position: absolute;
+  top: 410px;
+  left: 500px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.container .btnKupang:hover {
+  background-color: black;
+}
+
+.container .btnLabuhanBajo {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLabuhanBajo:hover {
+  background-color: black;
+}
+
+/*--------------------WITEL MADURA----------------*/
+.container .btnAmbunten {
+  position: absolute;
+  top: 80px;
+  left: 590px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAmbunten:hover {
+  background-color: black;
+}
+
+.container .btnBatangtang {
+  position: absolute;
+  top: 100px;
+  left: 700px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBatangtang:hover {
+  background-color: black;
+}
+
+.container .btnMasalembo{
+  position: absolute;
+  top: 30px;
+  left: 580px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMasalembo:hover {
+  background-color: black;
+}
+
+.container .btnArosbaya {
+  position: absolute;
+  top: 120px;
+  left: 180px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnArosbaya:hover {
+  background-color: black;
+}
+
+.container .btnBangkalan {
+  position: absolute;
+  top: 150px;
+  left: 160px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBangkalan:hover {
+  background-color: black;
+}
+
+.container .btnKamal {
+  position: absolute;
+  top: 200px;
+  left: 150px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKamal:hover {
+  background-color: black;
+}
+
+.container .btnKetapang {
+  position: absolute;
+  top: 80px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKetapang:hover {
+  background-color: black;
+}
+
+.container .btnOmben {
+  position: absolute;
+  top: 160px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnOmben:hover {
+  background-color: black;
+}
+
+.container .btnPamekasan {
+  position: absolute;
+  top: 200px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPamekasan:hover {
+  background-color: black;
+}
+
+.container .btnPeragaan {
+  position: absolute;
+  top: 170px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPeragaan:hover {
+  background-color: black;
+}
+
+.container .btnSumenep {
+  position: absolute;
+  top: 130px;
+  left: 640px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSumenep:hover {
+  background-color: black;
+}
+
+.container .btnSampang {
+  position: absolute;
+  top: 220px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSampang:hover {
+  background-color: black;
+}
+
+.container .btnBlega {
+  position: absolute;
+  top: 220px;
+  left: 330px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSampang:hover {
+  background-color: black;
+}
+
+.container .btnTanjungbumi {
+  position: absolute;
+  top: 80px;
+  left: 300px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTanjungbumi:hover {
+  background-color: black;
+}
+
+.container .btnWaruPamekasan {
+  position: absolute;
+  top: 80px;
+  left: 520px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWaruPamekasan:hover {
+  background-color: black;
+}
+
+.container .btnSapudi {
+  position: absolute;
+  top: 170px;
+  left: 755px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSapudi:hover {
+  background-color: black;
+}
+
+.container .btnSapeken {
+  position: absolute;
+  top: 170px;
+  left: 830px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSapeken:hover {
+  background-color: black;
+}
+
+.container .btnKangean {
+  position: absolute;
+  top: 160px;
+  left: 790px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKangean:hover {
+  background-color: black;
+}
+/*--------------STO KEDIRI---------------*/
+
+.container .btnBlitar {
+  position: absolute;
+  top: 360px;
+  left: 527px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBlitar:hover {
+  background-color: black;
+}
+
+.container .btnCampurDarat {
+  position: absolute;
+  top: 400px;
+  left: 365px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnCampurdarat:hover {
+  background-color: black;
+}
+
+.container .btnDurenan {
+  position: absolute;
+  top: 390px;
+  left: 315px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnDurenan:hover {
+  background-color: black;
+}
+
+
+.container .btnGondang {
+  position: absolute;
+  top: 30px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGondang:hover {
+  background-color: black;
+}
+
+
+.container .btnGurah {
+  position: absolute;
+  top: 200px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGurah:hover {
+  background-color: black;
+}
+
+.container .btnKandanganPare {
+  position: absolute;
+  top: 170px;
+  left: 590px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKandanganPare:hover {
+  background-color: black;
+}
+
+.container .btnKesamben{
+  position: absolute;
+  top: 400px;
+  left: 637px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKesamben:hover {
+  background-color: black;
+}
+
+.container .btnKediri2{
+  position: absolute;
+  top: 210px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKediri2:hover {
+  background-color: black;
+}
+
+.container .btnKertosono{
+  position: absolute;
+  top: 70px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKertosono:hover {
+  background-color: black;
+}
+
+.container .btnLodoyo{
+  position: absolute;
+  top: 410px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLodoyo:hover {
+  background-color: black;
+}
+
+.container .btnMojoroto{
+  position: absolute;
+  top: 205px;
+  left: 405px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMojoroto:hover {
+  background-color: black;
+}
+
+.container .btnNgadiluwih{
+  position: absolute;
+  top: 280px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgadiluwih:hover {
+  background-color: black;
+}
+
+.container .btnNgunut{
+  position: absolute;
+  top: 375px;
+  left: 420px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNgunut:hover {
+  background-color: black;
+}
+
+
+.container .btnNganjuk{
+  position: absolute;
+  top: 70px;
+  left: 370px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNganjuk:hover {
+  background-color: black;
+}
+
+.container .btnPare{
+  position: absolute;
+  top: 170px;
+  left: 535px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPare:hover {
+  background-color: black;
+}
+
+.container .btnPanataran{
+  position: absolute;
+  top: 320px;
+  left: 555px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPanataran:hover {
+  background-color: black;
+}
+
+.container .btnPapar{
+  position: absolute;
+  top: 145px;
+  left: 466px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPapar:hover {
+  background-color: black;
+}
+
+.container .btnPrambon{
+  position: absolute;
+  top: 150px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPrambon:hover {
+  background-color: black;
+}
+
+.container .btnPrigi{
+  position: absolute;
+  top: 485px;
+  left: 290px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPrigi:hover {
+  background-color: black;
+}
+
+.container .btnSambi{
+  position: absolute;
+  top: 305px;
+  left: 440px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSambi:hover {
+  background-color: black;
+}
+
+.container .btnSrengat{
+  position: absolute;
+  top: 350px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSrengat:hover {
+  background-color: black;
+}
+
+
+.container .btnTrenggalek{
+  position: absolute;
+  top: 347px;
+  left: 262px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTrenggalek:hover {
+  background-color: black;
+}
+
+.container .btnTulungagung{
+  position: absolute;
+  top: 360px;
+  left: 375px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTulungagung:hover {
+  background-color: black;
+}
+
+.container .btnWatesKediri{
+  position: absolute;
+  top: 270px;
+  left: 505px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWatesKediri:hover {
+  background-color: black;
+}
+
+.container .btnWlingi{
+  position: absolute;
+  top: 365px;
+  left: 615px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWlingi:hover {
+  background-color: black;
+}
+
+.container .btnWarujayeng{
+  position: absolute;
+  top: 100px;
+  left: 430px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWarujayeng:hover {
+  background-color: black;
+}
+
+/*--------------STO DENPASAR---------------*/
+.container .btnBenoa {
+  position: absolute;
+  top: 230px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBenoa:hover {
+  background-color: black;
+}
+
+.container .btnJimbaran {
+  position: absolute;
+  top: 295px;
+  left: 325px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJimbaran:hover {
+  background-color: black;
+}
+
+.container .btnKaliasem {
+  position: absolute;
+  top: 160px;
+  left: 380px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.container .btnKaliasem:hover {
+  background-color: black;
+}
+
+.container .btnKuta {
+  position: absolute;
+  top: 260px;
+  left: 320px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKuta:hover {
+  background-color: black;
+}
+
+.container .btnMonang {
+  position: absolute;
+  top: 180px;
+  left: 350px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.container .btnMonang:hover {
+  background-color: black;
+}
+
+.container .btnNusa2 {
+  position: absolute;
+  top: 330px;
+  left: 400px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNusa2:hover {
+  background-color: black;
+}
+
+.container .btnSanur {
+  position: absolute;
+  top: 190px;
+  left: 420px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSanur:hover {
+  background-color: black;
+}
+
+.container .btnSeminyak {
+  position: absolute;
+  top: 180px;
+  left: 310px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSeminyak:hover {
+  background-color: black;
+}
+
+.container .btnSukawati {
+  position: absolute;
+  top: 120px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukawati:hover {
+  background-color: black;
+}
+
+.container .btnTohpati {
+  position: absolute;
+  top: 140px;
+  left: 420px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTohpati:hover {
+  background-color: black;
+}
+
+.container .btnUbung {
+  position: absolute;
+  top: 140px;
+  left: 360px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnUbung:hover {
+  background-color: black;
+}
+
+/*--------------STO SINGARAJA---------------*/
+.container .btnAmlapura {
+  position: absolute;
+  top: 270px;
+  left: 810px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAmlapura:hover {
+  background-color: black;
+}
+
+.container .btnBangli {
+  position: absolute;
+  top: 280px;
+  left: 670px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBangli:hover {
+  background-color: black;
+}
+
+.container .btnBaturiti {
+  position: absolute;
+  top: 200px;
+  left: 560px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBaturiti:hover {
+  background-color: black;
+}
+
+.container .btnCandidasa {
+  position: absolute;
+  top: 300px;
+  left: 770px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnCandidasa:hover {
+  background-color: black;
+}
+
+.container .btnGianyar {
+  position: absolute;
+  top: 340px;
+  left: 650px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGianyar:hover {
+  background-color: black;
+}
+
+.container .btnGilimanuk {
+  position: absolute;
+  top: 120px;
+  left: 130px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGilimanuk:hover {
+  background-color: black;
+}
+
+.container .btnKintamani {
+  position: absolute;
+  top: 170px;
+  left: 660px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKintamani:hover {
+  background-color: black;
+}
+
+.container .btnLovina {
+  position: absolute;
+  top: 110px;
+  left: 470px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnLovina:hover {
+  background-color: black;
+}
+
+.container .btnNegara {
+  position: absolute;
+  top: 230px;
+  left: 240px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnNegara:hover {
+  background-color: black;
+}
+
+.container .btnPupuan {
+  position: absolute;
+  top: 200px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPupuan:hover {
+  background-color: black;
+}
+
+.container .btnSingaraja2 {
+  position: absolute;
+  top: 80px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSingaraja2:hover {
+  background-color: black;
+}
+
+.container .btnSemarapura {
+  position: absolute;
+  top: 240px;
+  left: 620px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSemarapura:hover {
+  background-color: black;
+}
+
+.container .btnSeririt {
+  position: absolute;
+  top: 130px;
+  left: 420px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSeririt:hover {
+  background-color: black;
+}
+
+.container .btnTabanan {
+  position: absolute;
+  top: 250px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTabanan:hover {
+  background-color: black;
+}
+
+.container .btnTampak {
+  position: absolute;
+  top: 260px;
+  left: 635px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTampak:hover {
+  background-color: black;
+}
+
+.container .btnUbud {
+  position: absolute;
+  top: 310px;
+  left: 610px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnUbud:hover {
+  background-color: black;
+}
+
+/*----------------------STO JEMBER -------------------*/
+
+.container .btnAmbulu {
+  position: absolute;
+  top: 400px;
+  left: 320px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAmbulu:hover {
+  background-color: black;
+}
+
+.container .btnArjasaJember {
+  position: absolute;
+  top: 270px;
+  left: 390px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnArjasaJember:hover {
+  background-color: black;
+}
+
+.container .btnAsembagus {
+  position: absolute;
+  top: 100px;
+  left: 570px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnAsembagus:hover {
+  background-color: black;
+}
+
+.container .btnBenculuk {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBenculuk:hover {
+  background-color: black;
+}
+
+.container .btnBesuki {
+  position: absolute;
+  top: 100px;
+  left: 350px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBesuki:hover {
+  background-color: black;
+}
+
+.container .btnBondowoso {
+  position: absolute;
+  top: 180px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBondowoso:hover {
+  background-color: black;
+}
+
+.container .btnBalung {
+  position: absolute;
+  top: 360px;
+  left: 290px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBalung:hover {
+  background-color: black;
+}
+
+.container .btnBanyuwangi {
+  position: absolute;
+  top: 330px;
+  left: 670px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnBanyuwangi:hover {
+  background-color: black;
+}
+
+.container .btnGenteng {
+  position: absolute;
+  top: 410px;
+  left: 570px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnGenteng:hover {
+  background-color: black;
+}
+
+.container .btnJember2 {
+  position: absolute;
+  top: 310px;
+  left: 360px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJember2:hover {
+  background-color: black;
+}
+
+.container .btnJenggawah {
+  position: absolute;
+  top: 360px;
+  left: 330px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnJenggawah:hover {
+  background-color: black;
+}
+
+.container .btnKalibaru {
+  position: absolute;
+  top: 360px;
+  left: 460px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKalibaru:hover {
+  background-color: black;
+}
+
+.container .btnKebonsari {
+  position: absolute;
+  top: 330px;
+  left: 550px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKebonsari:hover {
+  background-color: black;
+}
+
+.container .btnKetapang2 {
+  position: absolute;
+  top: 280px;
+  left: 670px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKetapang2:hover {
+  background-color: black;
+}
+
+.container .btnKalisat {
+  position: absolute;
+  top: 290px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKalisat:hover {
+  background-color: black;
+}
+
+.container .btnKencong {
+  position: absolute;
+  top: 360px;
+  left: 200px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnKencong:hover {
+  background-color: black;
+}
+
+.container .btnMuncar{
+  position: absolute;
+  top: 440px;
+  left: 655px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMuncar:hover {
+  background-color: black;
+}
+
+.container .btnMlandingan {
+  position: absolute;
+  top: 100px;
+  left: 410px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnMlandingan:hover {
+  background-color: black;
+}
+
+.container .btnPrajekan {
+  position: absolute;
+  top: 130px;
+  left: 480px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPrajekan:hover {
+  background-color: black;
+}
+
+.container .btnPesanggaran {
+  position: absolute;
+  top: 500px;
+  left: 540px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPesanggaran:hover {
+  background-color: black;
+}
+
+.container .btnPuger {
+  position: absolute;
+  top: 410px;
+  left: 245px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnPuger:hover {
+  background-color: black;
+}
+
+.container .btnRambipuji {
+  position: absolute;
+  top: 330px;
+  left: 300px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnRambipuji:hover {
+  background-color: black;
+}
+
+.container .btnRogojampi {
+  position: absolute;
+  top: 380px;
+  left: 650px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnRogojampi:hover {
+  background-color: black;
+}
+
+.container .btnSitubondo {
+  position: absolute;
+  top: 90px;
+  left: 500px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSitubondo:hover {
+  background-color: black;
+}
+
+.container .btnSukosari {
+  position: absolute;
+  top: 170px;
+  left: 510px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukosari:hover {
+  background-color: black;
+}
+
+.container .btnSukowono {
+  position: absolute;
+  top: 250px;
+  left: 425px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSukowono:hover {
+  background-color: black;
+}
+
+.container .btnSempolan {
+  position: absolute;
+  top: 320px;
+  left: 450px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnSempolan:hover {
+  background-color: black;
+}
+
+.container .btnTanggul {
+  position: absolute;
+  top: 300px;
+  left: 240px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnTanggul:hover {
+  background-color: black;
+}
+
+.container .btnWongsorejo {
+  position: absolute;
+  top: 220px;
+  left: 680px;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+.container .btnWongsorejo:hover {
+  background-color: black;
+}
